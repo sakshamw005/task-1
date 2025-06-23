@@ -1,10 +1,3 @@
-Samajh gaya bhai — tu chaahta hai **ek hi Markdown block** jisme **poora Nmap process** likha ho, properly formatted, ekdam copy-paste-ready.
-
-Yeh le, **saare steps ek hi Markdown block mein**:
-
----
-
-````markdown
 # 🛰️ Nmap Reconnaissance Report
 
 **Nmap** (Network Mapper) helps identify **open ports**, **running services**, **OS details**, and more. It is mainly used for **reconnaissance** in ethical hacking and penetration testing.
